@@ -1,3 +1,5 @@
+
+#Note that the configuration should move into AWS parameter store in production , the below is for local or development 
 {
 “accessKeyId”: “XXXXXXXXXXX”,
 “accessKey”: “XXXXXXXCCYYYYYYYYYY”,
